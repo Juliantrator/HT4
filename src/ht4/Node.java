@@ -1,3 +1,9 @@
+/*
+ * Universidad del Valle de Guatemala
+ * 22-08-16
+ * @author Isaac Rodriguez 
+ *@author Julian Lopez
+*/
 public class Node<E> { 
 	protected E data; // value stored in this element 
 	protected Node<E> nextElement; // ref to next
