@@ -1,6 +1,8 @@
 /**
- * @author Isaac Rodriguez, Julian Lopez
- *
+ * Universidad del Valle de Guatemala
+ * 22-08-16
+ * @author Isaac Rodriguez 
+ *@author Julian Lopez
  */
 
 public interface ADTLista<E> {
