@@ -1,6 +1,8 @@
 /**
- * @author Isaac Rodriguez, Julian Lopez
- * @22 de agosto del 2O16
+ * Universidad del Valle de Guatemala
+ * 22-08-16
+ * @author Isaac Rodriguez 
+ *@author Julian Lopez
  */
 
 import static org.junit.Assert.*;
